@@ -16,6 +16,10 @@ Currently doing live game analytics at Indigo.
 
 **[AK Auto](https://ak-auto-ten.vercel.app)** — site for a used car dealership near Paris, replacing a listings-only presence. Next.js, Tailwind, shadcn/ui, Supabase, deployed on Vercel, with an end-to-end Playwright suite.
 
+<a href="https://ak-auto-ten.vercel.app"><img src="ak-auto.png" alt="AK Auto homepage" width="100%"></a>
+
+<a href="https://ak-auto-ten.vercel.app">ak-auto-ten.vercel.app</a>
+
 ### How I work
 
 AI is a standard part of it, Claude Code most of all. I use it daily to build, analyse and test, and a good deal of my work is figuring out how to point it at a problem so the output is actually verifiable.
