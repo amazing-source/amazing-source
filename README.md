@@ -23,3 +23,4 @@ AI is a standard part of it, Claude Code most of all. I use it daily to build, a
 **Languages** — TypeScript, JavaScript, Python, C, Lua, PHP, SQL, HTML/CSS
 
 **Tools** — Next.js, React, Node, Playwright, Postgres, DuckDB, Supabase
+
