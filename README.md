@@ -24,33 +24,17 @@
 
 <sub><b>frontend</b></sub><br>
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs" height="42">
-
-<br><br>
-
-<sub><b>backend</b></sub><br>
-<img src="https://skillicons.dev/icons?i=py,c,lua,php,nodejs,fastapi,flask" height="42">
-
-<br><br>
-
-<sub><b>data</b></sub><br>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" height="42">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="42">
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" height="42">
-
-<br><br>
-
-<sub><b>testing & quality</b></sub><br>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="42">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" height="42">
 <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" height="42">
 <img src="https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white" height="42">
-
-<br><br>
-
-<sub><b>infra & tooling</b></sub><br>
+<img src="https://skillicons.dev/icons?i=py,c,lua,php,nodejs,fastapi,flask" height="42">
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions" height="42">
 <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=python&logoColor=white" height="42">
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" height="42">
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" height="42">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="42">
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" height="42">
 
 </div>
 
