@@ -22,7 +22,6 @@
 
 <div align="center">
 
-<sub><b>frontend</b></sub><br>
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs" height="42">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="42">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" height="42">
@@ -42,7 +41,7 @@
 
 **Live game analytics** : collecting roblox creator Dashboard metrics, validating stored values against ground-truth exports, flagging unreliable readings, and comparing releases against normal d2d variation.
 
-**[testhunch](https://github.com/amazing-source/testhunch)** — learns from CI history which tests a change is most likely to break and runs those first.
+**[testhunch](https://github.com/amazing-source/testhunch)** : learns from CI history which tests a change is most likely to break and runs those first.
 
 <br>
 
