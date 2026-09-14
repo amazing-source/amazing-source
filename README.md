@@ -18,14 +18,6 @@
 </p>
 
 ---
-
-### about
-
-19 · France  
-Currently doing live game analytics at **Indigo**.
-
-I work across product engineering, analytics, and QA — building the application, measuring what it actually does once live, and verifying the result before trusting it.
-
 ### stack
 
 <div align="center">
@@ -64,7 +56,7 @@ I work across product engineering, analytics, and QA — building the applicatio
 
 ### current
 
-**Live game analytics** — collecting Creator Dashboard metrics, validating stored values against ground-truth exports, flagging unreliable readings, and comparing releases against normal day-to-day variation.
+**Live game analytics** : collecting roblox creator Dashboard metrics, validating stored values against ground-truth exports, flagging unreliable readings, and comparing releases against normal d2d variation.
 
 **[testhunch](https://github.com/amazing-source/testhunch)** — learns from CI history which tests a change is most likely to break and runs those first.
 
