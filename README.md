@@ -1,30 +1,78 @@
-<img src="banner.jpg" alt="" width="100%">
+<img src="banner.jpg" alt="Gojo banner" width="100%">
 
-## Ren
+<h1 align="center">ren</h1>
 
-19, France.
+<p align="center">
+  full-stack developer · data analyst · qa
+</p>
 
-Full stack developer, data analyst, QA.
+<p align="center">
+  building, measuring, and testing software end-to-end.
+</p>
 
-I work across the whole path rather than one slice of it: building the application, measuring what it actually does once it is live, and testing it properly before it ships. Most of what I do sits where those three meet, which usually means writing the measurement before trusting the number.
+<p align="center">
+  <a href="https://github.com/amazing-source">
+    <img src="https://img.shields.io/badge/GitHub-amazing--source-181717?style=flat-square&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/Discord-a5949284-5865F2?style=flat-square&logo=discord&logoColor=white">
+</p>
 
-Currently doing live game analytics at Indigo.
+---
 
-### Working on
+### about
 
-**An analytics platform for live games.** It pulls every metric Roblox's Creator Dashboard exposes for a title in one pass, then diffs each stored value cell by cell against ground-truth exports, so a number that cannot be trusted says so rather than being quietly wrong — partial days, synthesized zeros and revised readings are marked, not averaged in. It also tags releases and compares before against after, which is mostly the work of telling a real regression apart from weekday shape or a day that has not finished yet.
+19 · France
 
-**[AK Auto](https://ak-auto-ten.vercel.app)** — site for a used car dealership near Paris, replacing a listings-only presence. Next.js, Tailwind, shadcn/ui, Supabase, deployed on Vercel, with an end-to-end Playwright suite.
+Currently doing live game analytics at **Indigo**.
 
-<a href="https://ak-auto-ten.vercel.app"><img src="ak-auto.png" alt="AK Auto homepage" width="100%"></a>
+I work across product engineering, analytics, and QA — building the application, measuring what it actually does once live, and verifying the result before trusting it.
 
-<a href="https://ak-auto-ten.vercel.app">ak-auto-ten.vercel.app</a>
+### stack
 
-### How I work
+<div align="center">
 
-AI is a standard part of it, Claude Code most of all. I use it daily to build, analyse and test, and a good deal of my work is figuring out how to point it at a problem so the output is actually verifiable.
+**frontend**
 
-**Languages** — TypeScript, JavaScript, Python, C, Lua, PHP, SQL, HTML/CSS
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs" />
 
-**Tools** — Next.js, React, Node, Playwright, Postgres, DuckDB, Supabase
+**backend**
 
+<img src="https://skillicons.dev/icons?i=py,c,lua,php,nodejs,fastapi,flask" />
+
+**data**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" />
+
+SQL · DuckDB
+
+**testing & quality**
+
+<img src="https://skillicons.dev/icons?i=playwright,pytest" />
+
+Ruff · mypy
+
+**infra & tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions" />
+
+uv · Gunicorn
+
+</div>
+
+---
+
+### current
+
+**Live game analytics** — collecting Creator Dashboard metrics, validating stored values against ground-truth exports, flagging unreliable readings, and comparing releases against normal day-to-day variation.
+
+**[testhunch](https://github.com/amazing-source/testhunch)** — learns from CI history which tests a change is most likely to break and runs those first.
+
+<br>
+
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amazing-source&theme=github-compact&hide_border=true&area=true"
+    width="62%"
+    alt=""
+  >
+</p>
