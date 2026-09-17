@@ -47,11 +47,9 @@
 ### activity
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=amazing-source&theme=github-compact&hide_border=true&area=true&custom_title=ren%27s%20Contribution%20Graph"
-      width="100%"
-      alt="ren's Contribution Graph"
-    >
-  </a>
+  <img src="./assets/activity.svg" width="100%" alt="ren's contribution activity over the last 31 days">
+</p>
+
+<p align="center">
+  <img src="./assets/contributions.svg" width="100%" alt="GitHub contributions in the last year">
 </p>
