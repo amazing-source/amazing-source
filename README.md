@@ -21,9 +21,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs" height="42">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="42">
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" height="42">
-<img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" height="42">
 <img src="https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white" height="42">
 <img src="https://skillicons.dev/icons?i=py,c,lua,php,nodejs,fastapi,flask" height="42">
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions" height="42">
