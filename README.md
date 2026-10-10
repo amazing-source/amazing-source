@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white" height="42">
 <img src="https://skillicons.dev/icons?i=py,c,lua,php,nodejs,fastapi,flask" height="42">
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions" height="42">
-<img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=python&logoColor=white" height="42">
-<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" height="42">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" height="42">
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="42">
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" height="42">
