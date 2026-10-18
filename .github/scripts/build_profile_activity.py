@@ -98,7 +98,7 @@ def svg_activity(calendar: dict) -> str:
     lines = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
         '<rect width="100%" height="100%" rx="8" fill="#0d1117"/>',
-        '<text x="18" y="28" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">ren\'s contribution activity</text>',
+        '<text x="18" y="28" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">dilan\'s contribution activity</text>',
         '<text x="882" y="28" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11">last 31 days</text>',
     ]
 
