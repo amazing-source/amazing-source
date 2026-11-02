@@ -1,11 +1,11 @@
 <h1 align="center">Dilan</h1>
 
 <p align="center">
-  i dev using ai, for ideas to come to life and actually ship, roblox games, dev tools, and i also do research and data analysis
+software engineering, data analysis, research, quality assurance
 </p>
 
 <p align="center">
-  undergrad student, but i do alot of stuff on the side and ai lets me go way faster on it, i don't just blindly do it though i make sure i understand the mechanism behind everything i do, helped me improve alot
+  im a student, but i do alot of stuff on the side and ai lets me go way faster on it, i don't just blindly do it though i make sure i understand the mechanism behind everything i do, helped me improve alot
 </p>
 
 <p align="center">
