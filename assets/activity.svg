@@ -3,53 +3,53 @@
 <text x="18" y="28" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">dilan's contribution activity</text>
 <text x="882" y="28" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11">last 31 days</text>
 <line x1="45" y1="48.0" x2="882" y2="48.0" stroke="#21262d" stroke-width="1"/>
-<text x="36" y="52.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">205</text>
+<text x="36" y="52.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">435</text>
 <line x1="45" y1="93.0" x2="882" y2="93.0" stroke="#21262d" stroke-width="1"/>
-<text x="36" y="97.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">154</text>
+<text x="36" y="97.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">326</text>
 <line x1="45" y1="138.0" x2="882" y2="138.0" stroke="#21262d" stroke-width="1"/>
-<text x="36" y="142.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">102</text>
+<text x="36" y="142.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">218</text>
 <line x1="45" y1="183.0" x2="882" y2="183.0" stroke="#21262d" stroke-width="1"/>
-<text x="36" y="187.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">51</text>
+<text x="36" y="187.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">109</text>
 <line x1="45" y1="228.0" x2="882" y2="228.0" stroke="#21262d" stroke-width="1"/>
 <text x="36" y="232.0" text-anchor="end" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">0</text>
-<polygon points="45,228 45.0,178.8 72.9,209.6 100.8,222.7 128.7,227.1 156.6,210.4 184.5,70.8 212.4,49.8 240.3,108.6 268.2,184.1 296.1,220.1 324.0,198.1 351.9,199.9 379.8,129.7 407.7,169.2 435.6,177.1 463.5,200.8 491.4,62.9 519.3,148.1 547.2,207.8 575.1,215.7 603.0,216.6 630.9,222.7 658.8,193.8 686.7,228.0 714.6,193.8 742.5,228.0 770.4,131.4 798.3,186.7 826.2,183.2 854.1,48.0 882.0,167.4 882,228" fill="#58a6ff" fill-opacity="0.10"/>
-<polyline points="45.0,178.8 72.9,209.6 100.8,222.7 128.7,227.1 156.6,210.4 184.5,70.8 212.4,49.8 240.3,108.6 268.2,184.1 296.1,220.1 324.0,198.1 351.9,199.9 379.8,129.7 407.7,169.2 435.6,177.1 463.5,200.8 491.4,62.9 519.3,148.1 547.2,207.8 575.1,215.7 603.0,216.6 630.9,222.7 658.8,193.8 686.7,228.0 714.6,193.8 742.5,228.0 770.4,131.4 798.3,186.7 826.2,183.2 854.1,48.0 882.0,167.4" fill="none" stroke="#79c0ff" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="45.0" cy="178.8" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="72.9" cy="209.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="100.8" cy="222.7" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="128.7" cy="227.1" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="156.6" cy="210.4" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="184.5" cy="70.8" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="212.4" cy="49.8" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="240.3" cy="108.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="268.2" cy="184.1" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="296.1" cy="220.1" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="324.0" cy="198.1" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="351.9" cy="199.9" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="379.8" cy="129.7" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="407.7" cy="169.2" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="435.6" cy="177.1" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="463.5" cy="200.8" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="491.4" cy="62.9" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="519.3" cy="148.1" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="547.2" cy="207.8" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="575.1" cy="215.7" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="603.0" cy="216.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="630.9" cy="222.7" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="658.8" cy="193.8" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="686.7" cy="228.0" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="714.6" cy="193.8" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="742.5" cy="228.0" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="770.4" cy="131.4" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="798.3" cy="186.7" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="826.2" cy="183.2" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="854.1" cy="48.0" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<circle cx="882.0" cy="167.4" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
-<text x="45.0" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 02</text>
-<text x="184.5" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 07</text>
-<text x="324.0" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 12</text>
-<text x="463.5" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 17</text>
-<text x="603.0" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 22</text>
-<text x="742.5" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 27</text>
-<text x="882.0" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Nov 01</text>
+<polygon points="45,228 45.0,210.6 72.9,223.0 100.8,227.2 128.7,211.4 156.6,49.7 184.5,57.5 212.4,114.6 240.3,187.9 268.2,223.9 296.1,200.7 324.0,201.5 351.9,135.3 379.8,172.6 407.7,180.0 435.6,202.3 463.5,99.7 491.4,163.0 519.3,208.6 547.2,222.2 575.1,222.6 603.0,225.5 630.9,211.9 658.8,228.0 686.7,211.9 714.6,228.0 742.5,182.5 770.4,208.6 798.3,206.9 826.2,143.2 854.1,187.4 882.0,227.6 882,228" fill="#58a6ff" fill-opacity="0.10"/>
+<polyline points="45.0,210.6 72.9,223.0 100.8,227.2 128.7,211.4 156.6,49.7 184.5,57.5 212.4,114.6 240.3,187.9 268.2,223.9 296.1,200.7 324.0,201.5 351.9,135.3 379.8,172.6 407.7,180.0 435.6,202.3 463.5,99.7 491.4,163.0 519.3,208.6 547.2,222.2 575.1,222.6 603.0,225.5 630.9,211.9 658.8,228.0 686.7,211.9 714.6,228.0 742.5,182.5 770.4,208.6 798.3,206.9 826.2,143.2 854.1,187.4 882.0,227.6" fill="none" stroke="#79c0ff" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="45.0" cy="210.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="72.9" cy="223.0" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="100.8" cy="227.2" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="128.7" cy="211.4" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="156.6" cy="49.7" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="184.5" cy="57.5" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="212.4" cy="114.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="240.3" cy="187.9" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="268.2" cy="223.9" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="296.1" cy="200.7" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="324.0" cy="201.5" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="351.9" cy="135.3" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="379.8" cy="172.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="407.7" cy="180.0" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="435.6" cy="202.3" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="463.5" cy="99.7" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="491.4" cy="163.0" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="519.3" cy="208.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="547.2" cy="222.2" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="575.1" cy="222.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="603.0" cy="225.5" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="630.9" cy="211.9" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="658.8" cy="228.0" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="686.7" cy="211.9" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="714.6" cy="228.0" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="742.5" cy="182.5" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="770.4" cy="208.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="798.3" cy="206.9" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="826.2" cy="143.2" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="854.1" cy="187.4" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<circle cx="882.0" cy="227.6" r="2.4" fill="#c9d1d9" stroke="#58a6ff" stroke-width="1.2"/>
+<text x="45.0" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 03</text>
+<text x="184.5" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 08</text>
+<text x="324.0" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 13</text>
+<text x="463.5" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 18</text>
+<text x="603.0" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 23</text>
+<text x="742.5" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Oct 28</text>
+<text x="882.0" y="255" text-anchor="middle" fill="#6e7681" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10">Nov 02</text>
 </svg>
