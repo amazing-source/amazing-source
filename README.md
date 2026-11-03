@@ -5,7 +5,7 @@ software engineering, data analysis, research, quality assurance
 </p>
 
 <p align="center">
-  im a student, but i do alot of stuff on the side and ai lets me go way faster on it, i don't just blindly do it though i make sure i understand the mechanism behind everything i do, helped me improve alot
+  im a student, but i do alot of stuff on the side and ai lets me go way faster on it, i don't just blindly do it though i make sure i understand the mechanism behind everything i do, helped me improve alot, reason for my absurd amount of contributions is that i switch from device to device and it helps me keep track between sessions.
 </p>
 
 <p align="center">
