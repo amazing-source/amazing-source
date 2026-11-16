@@ -1,7 +1,7 @@
 <h1 align="center">Dilan</h1>
 
 <p align="center">
-software engineering, data analysis, research, quality assurance
+software engineering, game dev, data analysis, research
 </p>
 
 <p align="center">
@@ -22,17 +22,20 @@ software engineering, data analysis, research, quality assurance
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs" height="42">
 <img src="https://skillicons.dev/icons?i=py,c,lua,php,nodejs,fastapi,flask" height="42">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions" height="42">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,blender" height="42">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" height="42">
 </div>
 
 ### current
 
-**[steal a car and race !](https://www.roblox.com/games/117024598464288)** : my own roblox driving game, live, built from scratch, map, cars, ui, gameplay, economy, the whole thing. strictly typed luau, 144 unit tests, lint and type checks on every change, profiled with the microprofiler and optimized, onboarding in 12 languages, and a release process that checks the live build matches the repo byte for byte
+**my own games** : i make roblox games solo, code, 3d models, animations, sound, ui, and then the analytics and ads behind them.
+
+- **[steal a car and escape](https://www.roblox.com/games/117024598464288)** : my driving heist game, live. car physics for touch, keyboard and gamepad, guard chases, a car economy, 12 languages, and a voice-guided tutorial that took completion from 61% to 69% on its first day. strictly typed luau, 1,300+ unit tests and lint on every change, profiled and optimized with the microprofiler, and a release process that checks the live build matches the repo byte for byte
+- **drive lab** : a realistic driving engine for roblox. tyre and suspension model, gearboxes, drift and stability control, first-person cockpits, every car tuned against its real published numbers (skidpad, braking, top speed). i prepared the cars in blender (a ferrari 458 challenge with working doors, wipers and gauges), animated the driver's hands and made the engine and road audio
 
 **roblox dev suite** : a full development suite for roblox i built for myself, reusable kit + tooling around studio, rojo, lune unit tests, ci gates, release and verification tools, studio automation, the game above is built on it
 
-**live game analytics** : 11 months as a contractor at indigo, started as quality assurance for roblox games which expanded to bug fixes, shipping updates and data analysis etc, built my own analytics tool for it, collecting roblox creator Dashboard metrics, validating stored values against ground-truth exports, flagging unreliable readings, and comparing releases against normal d2d variation.
+**live game analytics** : 11 months as a contractor at indigo on live roblox games, started in qa and moved to bug fixes, shipping updates and data analysis, built my own analytics tool for it, collecting roblox creator Dashboard metrics, validating stored values against ground-truth exports, flagging unreliable readings, and comparing releases against normal d2d variation.
 
 **[testhunch](https://github.com/amazing-source/testhunch)** : learns from CI history which tests a change is most likely to break and runs those first. on pypi, works with 6 test runners (pytest, vitest, jest, go, maven, cargo-nextest). successful in some ways, unsuccessful in some ways too, it kept a very rigorous process tho
 
